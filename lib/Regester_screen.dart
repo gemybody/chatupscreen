@@ -17,7 +17,7 @@ class RegisterPage extends StatelessWidget {
             Spacer(flex: 2,),
 
 
-            Text('Scholar Chat',style: TextStyle(fontSize: 32,color: Colors.white,),),
+            Text('WELCOME BACK !!',style: TextStyle(fontSize: 32,color: Colors.white,),),
             Spacer(flex: 2 ,),
             Row(
               crossAxisAlignment: CrossAxisAlignment.start,

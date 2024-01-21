@@ -19,7 +19,7 @@ class School extends StatelessWidget {
           children: [
             Spacer(flex: 2,),
 
-            Text('Scholar Chat',style: TextStyle(fontSize: 32,color: Colors.white,),),
+            Text('  WELCOME ',style: TextStyle(fontSize: 32,color: Colors.white,),),
          Spacer(flex: 2 ,),
             Row(
               crossAxisAlignment: CrossAxisAlignment.start,
